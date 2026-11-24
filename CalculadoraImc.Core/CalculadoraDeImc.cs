@@ -46,7 +46,7 @@ namespace CalculadoraImc.Core
 
             // RF03: faixas da tabela, da menor para a maior.
             if (imc < 18.5) return "Baixo peso";
-            if (imc < 25.0) return "Eutrofia";
+            if (imc <= 25.0) return "Eutrofia";
             if (imc < 30.0) return "Sobrepeso";
             if (imc < 35.0) return "Obesidade grau I";
             if (imc < 40.0) return "Obesidade grau II";
