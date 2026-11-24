@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CalculadoraImc.Core/CalculadoraImc.Core.csproj" />
+  <Project Path="CalculadoraImc.Tests/CalculadoraImc.Tests.csproj" />
+</Solution>
