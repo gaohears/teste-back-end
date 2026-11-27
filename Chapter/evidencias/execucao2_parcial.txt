@@ -1,0 +1,189 @@
+Execução de teste para C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi.Tests\bin\Debug\net10.0\Chapter.WebApi.Tests.dll (.NETCoreApp,Version=v10.0)
+1 arquivos de teste no total corresponderam ao padrão especificado.
+[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v3.1.4+50e68bbb8b (64-bit .NET 10.0.15)
+[xUnit.net 00:00:00.13]   Discovering: Chapter.WebApi.Tests
+[xUnit.net 00:00:00.17]   Discovered:  Chapter.WebApi.Tests
+[xUnit.net 00:00:00.18]   Starting:    Chapter.WebApi.Tests
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+  Aprovado Chapter.WebApi.Tests.LivroRepositoryTests.Test2 [2 ms]
+  Aprovado Chapter.WebApi.Tests.LivrosControllerTests.CT07_Cadastrar_CorpoVazio_Retorna400 [576 ms]
+  Aprovado Chapter.WebApi.Tests.LivrosControllerTests.CT09_Atualizar_IdInexistente_Retorna404 [126 ms]
+  Aprovado Chapter.WebApi.Tests.LoginControllerTests.CT15_Login_SenhaErrada_Retorna404EMensagem [708 ms]
+  Aprovado Chapter.WebApi.Tests.LivrosControllerTests.CT02_Listar_BancoVazio_Retorna200EListaVazia [30 ms]
+  Aprovado Chapter.WebApi.Tests.LoginControllerTests.CT14_Login_CredenciaisValidas_Retorna200EToken [48 ms]
+  Aprovado Chapter.WebApi.Tests.LivrosControllerTests.CT01_Listar_ComLivrosCadastrados_Retorna200EOsDoisLivros [21 ms]
+  Aprovado Chapter.WebApi.Tests.LivrosControllerTests.CT03_BuscarPorId_IdExistente_Retorna200EOLivro [14 ms]
+  Aprovado Chapter.WebApi.Tests.LivrosControllerTests.CT05_BuscarPorId_IdNaoNumerico_Retorna400 [24 ms]
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi
+fail: Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware[1]
+      An unhandled exception has occurred while executing the request.
+      System.ArgumentNullException: Value cannot be null. (Parameter 'entity')
+         at Microsoft.EntityFrameworkCore.Utilities.Check.ThrowArgumentNull(String parameterName)
+         at Microsoft.EntityFrameworkCore.Utilities.Check.NotNull[T](T value, String parameterName)
+         at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.Remove(TEntity entity)
+         at Chapter.WebApi.Repositories.LivroRepository.Deletar(Int32 id) in C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi\Repositories\LivroRepository.cs:line 81
+         at Chapter.WebApi.Controllers.LivrosController.Deletar(Int32 id) in C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi\Controllers\LivrosController.cs:line 89
+         at lambda_method210(Closure, Object, Object[])
+         at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+         at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+         at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+         at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+      --- End of stack trace from previous location ---
+         at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+         at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+         at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+      --- End of stack trace from previous location ---
+         at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+         at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+         at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+         at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+         at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+         at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+         at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+         at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+[xUnit.net 00:00:01.20]     Chapter.WebApi.Tests.LivrosControllerTests.CT13_Deletar_IdInexistenteAutenticado_Retorna404 [FAIL]
+[xUnit.net 00:00:01.20]       Assert.Equal() Failure: Values differ
+[xUnit.net 00:00:01.20]       Expected: NotFound
+[xUnit.net 00:00:01.20]       Actual:   InternalServerError
+[xUnit.net 00:00:01.20]       Stack Trace:
+[xUnit.net 00:00:01.20]         C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi.Tests\LivrosControllerTests.cs(257,0): at Chapter.WebApi.Tests.LivrosControllerTests.CT13_Deletar_IdInexistenteAutenticado_Retorna404()
+[xUnit.net 00:00:01.20]         --- End of stack trace from previous location ---
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+[xUnit.net 00:00:01.21]   Finished:    Chapter.WebApi.Tests
+  Aprovado Chapter.WebApi.Tests.LivrosControllerTests.CT08_Atualizar_IdExistente_Retorna204EOsDadosSaoAlterados [23 ms]
+  Aprovado Chapter.WebApi.Tests.LivrosControllerTests.CT04_BuscarPorId_IdInexistente_Retorna404 [21 ms]
+  Aprovado Chapter.WebApi.Tests.LivrosControllerTests.CT10_Deletar_SemToken_Retorna401EOLivroNaoEExcluido [19 ms]
+  Aprovado Chapter.WebApi.Tests.LivrosControllerTests.CT12_Deletar_IdExistenteAutenticado_Retorna204EOLivroDeixaDeExistir [50 ms]
+  Aprovado Chapter.WebApi.Tests.LivrosControllerTests.CT06_Cadastrar_LivroValido_Retorna201EOLivroPassaAConstarNaLista [26 ms]
+  Com falha Chapter.WebApi.Tests.LivrosControllerTests.CT13_Deletar_IdInexistenteAutenticado_Retorna404 [44 ms]
+  Mensagem de erro:
+   Assert.Equal() Failure: Values differ
+Expected: NotFound
+Actual:   InternalServerError
+  Rastreamento de pilha:
+     at Chapter.WebApi.Tests.LivrosControllerTests.CT13_Deletar_IdInexistenteAutenticado_Retorna404() in C:\Users\gaogb\Documents\Cursos\Curso_FullStack_SENAI\Teste_Back-End\Chapter\Chapter.WebApi.Tests\LivrosControllerTests.cs:line 257
+--- End of stack trace from previous location ---
+  Aprovado Chapter.WebApi.Tests.LivrosControllerTests.CT11_Deletar_TokenInvalido_Retorna401 [14 ms]
+
+Falha na Execução de Teste.
+Total de testes: 16
+     Aprovados: 15
+     Com falha: 1
+Tempo total: 1,6989 Segundos
